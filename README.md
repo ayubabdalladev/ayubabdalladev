@@ -1,64 +1,78 @@
-<h1 align="left">Hey 👋, I'm Ayub Abdullahi</h1>
-
-<p>
-I'm a <strong>Full Stack & Mobile Developer</strong> based in 🇸🇴 Somalia.
-I work mainly with <strong>MERN Stack, Next.js, React Native</strong> and modern backend tools.
-Currently focused on building real-world projects, improving consistency, and growing as a professional developer.
+<h1 align="center">Hey 👋, I'm Ayub Abdullahi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Expert;React+Native+Specialist;MERN+Stack+Enthusiast" alt="Typing SVG" />
 </p>
-
-<p>
-  <a href="https://github.com/ayubabdalladev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayub-abdullahi-2b9303330">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/Ayub1.Abdalla">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ayub1.abdalla">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-🚀 Building skills one commit at a time
-
----
-
-## ⚡ A Few Quick Facts
-
-- 🔭 Currently working on **React Native & Web Applications**
-- 🧠 Learning **advanced backend systems, architecture & AI-assisted development**
-- 👨‍💻 All my work is available on **GitHub**
-- 💬 Ask me about **MERN, Next.js, Prisma, MongoDB, Firebase, React Native**
-- 🎯 Strong believer in **consistency, clean code & real projects**
-
----
 
 <div align="center">
-
-## 🚀 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,shadcn,nodejs,nestjs,prisma,mongodb,firebase,python,django,reactnative,docker,figma,ai,git,github,postman&perline=8" />
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXByeXJueXByeXJueXByeXJueXByeXJueXByeXJueXByJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 About Me
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayubabdalladev&show_icons=true&theme=tokyonight" />
-</p>
+I'm a passionate **Full Stack & Mobile Developer** based in 🇸🇴 Somalia. I specialize in building high-performance web and mobile applications with a focus on user experience and clean architecture.
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayubabdalladev&theme=tokyonight" />
-</p>
+- 🔭 **Currently Building:** High-performance Mobile Apps with **React Native** & Scalable Web Apps.
+- 🧠 **Learning:** Advanced System Design, Cloud Architecture, and AI Integration.
+- ⚡ **Philosophy:** *Consistency beats motivation — build daily.*
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ayubabdalladev&label=Profile%20Views&color=0e75b6&style=flat-square" />
+---
+
+### 📱 Mobile Development Focus (React Native)
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p>Waxaan xoogga saaraa dhisidda apps-ka mobilada ee <b>Cross-platform</b>-ka ah:</p>
+      <ul>
+        <li>Native Performance Optimization</li>
+        <li>Custom UI/UX with Reanimated</li>
+        <li>State Management (Redux/Zustand)</li>
+        <li>API Integration & Offline Support</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/nawed26/nawed26/master/assets/react-native.gif" width="150" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,shadcn,nodejs,nestjs,prisma,mongodb,firebase,python,django,reactnative,docker,figma,ai,git,github,postman&perline=10" />
 </p>
 
 ---
 
-🔥 <i>Consistency beats motivation — build daily.</i>
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayubabdalladev&show_icons=true&theme=tokyonight&count_private=true" alt="Ayub's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayubabdalladev&theme=tokyonight" alt="Ayub's Streak" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayubabdalladev&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/ayubabdalladev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayub-abdullahi-2b9303330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/Ayub1.Abdalla"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ayub1.abdalla"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  Made with ❤️ by Ayub Abdullahi
+</p>
